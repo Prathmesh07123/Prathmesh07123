@@ -67,9 +67,6 @@ DipTrace, Eagle, Fusion 360, Notion, MySQL
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh07123&layout=compact&theme=tokyonight)
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=prathmesh07123&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ---
 
 ## 🛠 Tools & Technologies
