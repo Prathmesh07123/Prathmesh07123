@@ -59,9 +59,19 @@ DipTrace, Eagle, Fusion 360, Notion, MySQL
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Overview
 
 ![Prathamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathmesh07123&show_icons=true&theme=tokyonight)
+
+---
+
+## 🛠 Tools & Technologies
+
+![STMicroelectronics](https://img.shields.io/badge/ST%20Microelectronics-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
+![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-44CC11?style=for-the-badge&logo=FreeRTOS&logoColor=white)
 
 ---
 
