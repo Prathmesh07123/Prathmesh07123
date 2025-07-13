@@ -59,9 +59,16 @@ DipTrace, Eagle, Fusion 360, Notion, MySQL
 
 ---
 
-## 📈 Overview
+## 📊 GitHub Overview
+
+![](https://komarev.com/ghpvc/?username=prathmesh07123&color=blue&style=flat-square)
 
 ![Prathamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathmesh07123&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh07123&layout=compact&theme=tokyonight)
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=prathmesh07123&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
