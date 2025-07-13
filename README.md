@@ -1,4 +1,4 @@
-![Banner](./profile-banner.png)
+![Banner](./Cover-Image.png)
 
 # 👋 Hi, I'm Prathamesh Wani
 
