@@ -31,15 +31,6 @@ I'm currently:
 
 ---
 
-## 🧾 Notion Learning Space
-
-I document all my weekly progress, research logs, and study curriculums in Notion.
-
-🔗 [📘 Mini Project Weekly Log – Embedded Systems](https://www.notion.so/Mini-Project-Weekly-Log-Embedded-Systems-22fd5e68aa1780f4bacfd44b15a03610?source=copy_link)  
-📦 ROS 2, Micro-ROS, RTOS, Drone Curriculum, Soundcard Design, and more
-
----
-
 ## 🛠 Technical Skills
 
 **Languages:**  
