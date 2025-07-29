@@ -26,7 +26,7 @@ I'm currently:
 | 🎓 Semester 5 Mini Project Weekly log| Cow Birthing Alert, Fall Detection & GPS Geofencing System for Rural Areas | [GitHub](https://github.com/prathmesh07123/MiniProject-Sem5-STM32-BareMetal) • [Notion Log](https://www.notion.so/Mini-Project-Weekly-Log-Embedded-Systems-22fd5e68aa1780f4bacfd44b15a03610?source=copy_link) |
 | 🤖 ROS 2 Mobile Robot | Autonomous navigation using camera and ultrasonic sensors | *(Coming soon)* |
 | 🧠 RTOS Learning Repo | FreeRTOS task scheduling, queues, and semaphores on STM32 | *(Coming soon)* |
-| 🔊 Soundcard Design | Research & simulate ADC/DAC circuits from scratch | *(In progress – see Notion)* |
+| 🔊 Soundcard Design | Research & simulate ADC/DAC circuits from scratch | *(In progress)* |
 | 🚁 70-Day Drone Curriculum | Full hands-on drone design with physics & code | *(In progress)* |
 
 ---
@@ -46,7 +46,7 @@ STM32CubeIDE, Keil, Proteus, Arduino IDE, VS Code, PyCharm
 UART, SPI, I2C, CAN, ADC/DAC, FreeRTOS, ThingSpeak, Git, Ethernet
 
 **Other Tools:**  
-DipTrace, Eagle, Fusion 360, Notion, MySQL
+DipTrace, KiCad, Cadence, Eagle, Fusion 360, Notion, MySQL
 
 ---
 
