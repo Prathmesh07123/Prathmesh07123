@@ -23,7 +23,7 @@ I'm currently:
 
 | Project | Description | Links |
 |--------|-------------|--------|
-| 🎓 Semester 5 Mini Project | Cow Birthing Alert, Fall Detection & GPS Geofencing System for Rural Areas | [GitHub](https://github.com/prathmesh07123/MiniProject-Sem5-STM32-BareMetal) • [Notion Log](https://www.notion.so/Mini-Project-Weekly-Log-Embedded-Systems-22fd5e68aa1780f4bacfd44b15a03610?source=copy_link) |
+| 🎓 Semester 5 Mini Project Weekly log| Cow Birthing Alert, Fall Detection & GPS Geofencing System for Rural Areas | [GitHub](https://github.com/prathmesh07123/MiniProject-Sem5-STM32-BareMetal) • [Notion Log](https://www.notion.so/Mini-Project-Weekly-Log-Embedded-Systems-22fd5e68aa1780f4bacfd44b15a03610?source=copy_link) |
 | 🤖 ROS 2 Mobile Robot | Autonomous navigation using camera and ultrasonic sensors | *(Coming soon)* |
 | 🧠 RTOS Learning Repo | FreeRTOS task scheduling, queues, and semaphores on STM32 | *(Coming soon)* |
 | 🔊 Soundcard Design | Research & simulate ADC/DAC circuits from scratch | *(In progress – see Notion)* |
